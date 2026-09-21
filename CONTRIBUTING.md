@@ -16,7 +16,7 @@ merge there — read that one if you are working in
 | API behaviour, bank providers, data problems | [backend](https://github.com/homeaccounting/backend/issues) |
 | Web interface bugs and UX | [web](https://github.com/homeaccounting/web/issues) |
 | Website and marketing content | [site](https://github.com/homeaccounting/site/issues) |
-| Questions, ideas, bank-provider requests | [Discussions](https://github.com/homeaccounting/backend/discussions) |
+| Questions, ideas, bank-provider requests | [Discussions](https://github.com/orgs/homeaccounting/discussions) |
 | Anything conversational | [Community](https://www.homeaccounting.com/community) |
 | **Security vulnerabilities** | **Never in public** — [SECURITY.md](SECURITY.md) |
 

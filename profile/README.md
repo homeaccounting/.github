@@ -32,7 +32,7 @@ message to a Telegram chat you already have open.
 ### Contributing
 
 Bank providers are the most valuable contribution: each one opens a market.
-Start in [Discussions](https://github.com/homeaccounting/backend/discussions)
+Start in [Discussions](https://github.com/orgs/homeaccounting/discussions)
 or the [community](https://www.homeaccounting.com/community), and see the
 CONTRIBUTING guide in whichever repository you're working on.
 
