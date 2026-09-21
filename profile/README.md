@@ -33,7 +33,8 @@ message to a Telegram chat you already have open.
 
 Bank providers are the most valuable contribution: each one opens a market.
 Start in [Discussions](https://github.com/orgs/homeaccounting/discussions)
-or the [community](https://www.homeaccounting.com/community), and see the
+or the [community](https://www.homeaccounting.com/community) — Discord in
+English, Telegram in Ukrainian — and see the
 CONTRIBUTING guide in whichever repository you're working on.
 
 We're early. Things are missing, and we'd rather say so than oversell.
